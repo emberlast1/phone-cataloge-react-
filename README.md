@@ -28,7 +28,6 @@ The project's design is based on a layout created in Figma. The clean and modern
 ### **UI/UX**
 
 * **React Router (v6.14.2)** – Navigation
-* **Swiper (v10.0.4)** – Image galleries
 * **use-react-router-breadcrumbs (v4.0.1)** – Navigation breadcrumbs
 * **React Loading Skeleton (v3.3.1)** – Loading states
 
